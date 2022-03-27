@@ -1,5 +1,0 @@
-﻿  lab2.1.cpp
-C:\Users\china\source\repos\lab2.1\lab2.1\Binary_Tree.h(123): warning C4715: BST<int,char const *>::Search::__search: значение возвращается не при всех путях выполнения
-C:\Users\china\source\repos\lab2.1\lab2.1\Binary_Tree.h(112): warning C4172: возвращение адреса локальной или временной переменной : root
-C:\Users\china\source\repos\lab2.1\lab2.1\AVL.h(196): warning C4715: AVL<int,char const *>::avl_remove::__remove: значение возвращается не при всех путях выполнения
-  lab2.1.vcxproj -> C:\Users\china\source\repos\lab2.1\Debug\lab2.1.exe
